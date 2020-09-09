@@ -5,8 +5,10 @@
 [<img align="left" alt="https://www.instagram.com/_eeikee_" width="150px" src="https://github.com/eeikee/eeikee/blob/master/instagram.png" />](https://www.instagram.com/_eeikee_/)
 [<img align="left" alt="https://www.youtube.com/channel/UCfIBxtbvSlEoUEi4eNL9LQA?view_as=subscriber" width="150px" src="https://github.com/eeikee/eeikee/blob/master/youtube.png" />](https://bit.ly/eeikee-yt)
 [<img align="left" alt="https://eeikee.github.io/portfolio-jp/" width="150px" src="https://github.com/eeikee/eeikee/blob/master/portfolio.png" />](https://eeikee.github.io/portfolio-jp/)
+<br />
+<br />
 
-----------------------------------------
+---
 
 ### Languages and Tools:
 
