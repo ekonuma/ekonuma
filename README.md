@@ -7,7 +7,7 @@
 <br />
 <br />
 
-#### &emsp; &emsp; &emsp; &emsp; **Portuguese Portfolio** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **Japanese Portfolio**
+#### &emsp; &emsp; &emsp; &emsp; **Portuguese Portfolio** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **Japanese Portfolio**
 
 [<img align="left" alt="https://eeikee.github.io/portfolio-br/" width="250px" src="https://github.com/eeikee/eeikee/blob/master/portfolio.png" />](https://eeikee.github.io/portfolio-br/)
 [<img align="left" alt="https://eeikee.github.io/portfolio-jp/" width="250px" src="https://github.com/eeikee/eeikee/blob/master/portfolio.png" />](https://eeikee.github.io/portfolio-jp/)
