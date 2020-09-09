@@ -1,10 +1,10 @@
 ### Connect with me:
 
-[<img align="left" alt="https://eeikee.github.io/portfolio-br/" width="184px" src="https://github.com/eeikee/eeikee/blob/master/portfolio.png" />](https://eeikee.github.io/portfolio-br/)
-[<img align="left" alt="https://www.linkedin.com/in/eeikee/" width="184px" src="https://github.com/eeikee/eeikee/blob/master/linkedin.png" />](https://www.linkedin.com/in/eeikee/)
-[<img align="left" alt="https://www.instagram.com/_eeikee_" width="184px" src="https://github.com/eeikee/eeikee/blob/master/instagram.png" />](https://www.instagram.com/_eeikee_/)
-[<img align="left" alt="https://www.youtube.com/channel/UCfIBxtbvSlEoUEi4eNL9LQA?view_as=subscriber" width="184px" src="https://github.com/eeikee/eeikee/blob/master/youtube.png" />](https://bit.ly/eeikee-yt)
-[<img align="left" alt="https://eeikee.github.io/portfolio-jp/" width="184px" src="https://github.com/eeikee/eeikee/blob/master/portfolio.png" />](https://eeikee.github.io/portfolio-jp/)
+[<img align="left" alt="https://eeikee.github.io/portfolio-br/" width="183px" src="https://github.com/eeikee/eeikee/blob/master/portfolio.png" />](https://eeikee.github.io/portfolio-br/)
+[<img align="left" alt="https://www.linkedin.com/in/eeikee/" width="183px" src="https://github.com/eeikee/eeikee/blob/master/linkedin.png" />](https://www.linkedin.com/in/eeikee/)
+[<img align="left" alt="https://www.instagram.com/_eeikee_" width="183px" src="https://github.com/eeikee/eeikee/blob/master/instagram.png" />](https://www.instagram.com/_eeikee_/)
+[<img align="left" alt="https://www.youtube.com/channel/UCfIBxtbvSlEoUEi4eNL9LQA?view_as=subscriber" width="183px" src="https://github.com/eeikee/eeikee/blob/master/youtube.png" />](https://bit.ly/eeikee-yt)
+[<img align="left" alt="https://eeikee.github.io/portfolio-jp/" width="183px" src="https://github.com/eeikee/eeikee/blob/master/portfolio.png" />](https://eeikee.github.io/portfolio-jp/)
 <br />
 <br />
 
