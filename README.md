@@ -2,8 +2,18 @@
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://eeikee.github.io/portfolio-br/" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/eeikee/" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="hhttps://www.instagram.com/_eeikee_/linked" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.instagram.com/_eeikee_/linked" />][instagram]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://www.youtube.com/channel/UCfIBxtbvSlEoUEi4eNL9LQA?view_as=subscriber" />][youtube]
+
+<br />
+
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://eeikee.github.io/portfolio-br/" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/eeikee/" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.instagram.com/_eeikee_" />][instagram]
 
 <br />
 
