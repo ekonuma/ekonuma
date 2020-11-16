@@ -4,8 +4,8 @@
 [<img align="left" alt="instagram" width="50px" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" />](https://www.instagram.com/_eeikee_/)
 [<img align="left" alt="youtube" width="50px" src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>](https://bit.ly/eeikee-yt) 
 
-[<img align="left" alt="https://eeikee.github.io/portfolio-br/" width="250px" src="https://github.com/eeikee/eeikee/blob/master/portfolio.png" />](https://eeikee.github.io/portfolio-br/)
-[<img align="left" alt="https://eeikee.github.io/portfolio-jp/" width="250px" src="https://github.com/eeikee/eeikee/blob/master/portfolio.png" />](https://eeikee.github.io/portfolio-jp/)
+[<img align="left" alt="https://eeikee.github.io/portfolio-br/" width="250px" src="https://img.icons8.com/windows/32/000000/portfolio.png" />](https://eeikee.github.io/portfolio-br/)
+
 <br />
 <br />
 
