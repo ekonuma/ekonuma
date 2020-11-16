@@ -1,6 +1,6 @@
 ### Connect with me:
 
-[<img align="left" alt="https://www.linkedin.com/in/eeikee/" width="250px" src="https://github.com/eeikee/eeikee/blob/master/linkedin.png" />](https://www.linkedin.com/in/eeikee/)
+[<img align="left" alt="linkedin" width="250px" src="<img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" />](https://www.linkedin.com/in/eeikee/)
 [<img align="left" alt="https://www.instagram.com/_eeikee_" width="250px" src="https://github.com/eeikee/eeikee/blob/master/instagram.png" />](https://www.instagram.com/_eeikee_/)
 [<img align="left" alt="https://www.youtube.com/channel/UCfIBxtbvSlEoUEi4eNL9LQA?view_as=subscriber" width="250px" src="https://github.com/eeikee/eeikee/blob/master/youtube.png" />](https://bit.ly/eeikee-yt) 
 
