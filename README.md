@@ -1,8 +1,8 @@
 ### Connect with me:
 
-[<img align="left" alt="linkedin" width="50px" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" />](https://www.linkedin.com/in/eeikee/)
-[<img align="left" alt="instagram" width="50px" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" />](https://www.instagram.com/_eeikee_/)
-[<img align="left" alt="youtube" width="50px" src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>](https://bit.ly/eeikee-yt) 
+[<img align="left" alt="linkedin" width="60px" src="https://icon-icons.com/icons2/134/PNG/64/linkedin_socialnetwork_20684.png" />](https://www.linkedin.com/in/eeikee/)
+[<img align="left" alt="instagram" width="60px" src="https://icon-icons.com/icons2/134/PNG/64/instagram_socialnetwork_20686.png" />](https://www.instagram.com/_eeikee_/)
+[<img align="left" alt="youtube" width="60px" src="https://icon-icons.com/icons2/134/PNG/64/youtube_socialnetwork_20660.png"/>](https://bit.ly/eeikee-yt) 
 
 [<img align="left" alt="https://eeikee.github.io/portfolio-br/" width="50px" src="https://img.icons8.com/windows/32/000000/portfolio.png" />](https://eeikee.github.io/portfolio-br/)
 
