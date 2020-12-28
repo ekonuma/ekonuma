@@ -16,7 +16,7 @@
 <img align="left" alt="java" width="50px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
 <img align="left" alt="Eclipse" width="50px" src="https://img.icons8.com/nolan/64/java-eclipse.png" />
 <img align="left" alt="intellij" width="50px" src="https://img.icons8.com/color/48/000000/intellij-idea.png" />
-<img align="left" alt="netbeans" width="50px" src="https://img.icons8.com/windows/32/000000/netbeans.png" />
+<img align="left" alt="netbeans" width="50px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/netbeans_94416.png" />
 <img align="left" alt="spring" width="50px" src="https://img.icons8.com/color/48/000000/spring-logo.png" />
 <img align="left" alt="python" width="50px" src="https://img.icons8.com/color/48/000000/python.png" />
 <img align="left" alt="pycharm" width="50px" src="https://img.icons8.com/color/48/000000/pycharm.png" />
