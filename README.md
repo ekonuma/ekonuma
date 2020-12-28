@@ -13,27 +13,34 @@
 
 ### Languages and Tools:
 
+#### Backend:
 <img align="left" alt="java" width="50px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
+<img align="left" alt="spring" width="50px" src="https://img.icons8.com/color/48/000000/spring-logo.png" />
+<img align="left" alt="Typescript" width="60px" src="https://ostrowski.ninja/static/1482fb398d82ef51cfcfdbcd55e1ec03/a26eb/ts.png" />
+<img align="left" alt="Node.js" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+
+#### Frontend:
+<img align="left" alt="JavaScript" width="50px" src="https://img.icons8.com/color/48/000000/javascript-logo-1.png"/>
+
+#### IDE:
 <img align="left" alt="Eclipse" width="50px" src="https://img.icons8.com/nolan/64/java-eclipse.png" />
 <img align="left" alt="intellij" width="50px" src="https://img.icons8.com/color/48/000000/intellij-idea.png" />
-<img align="left" alt="netbeans" width="50px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/netbeans_94416.png" />
-<img align="left" alt="spring" width="50px" src="https://img.icons8.com/color/48/000000/spring-logo.png" />
-<img align="left" alt="python" width="50px" src="https://img.icons8.com/color/48/000000/python.png" />
-<img align="left" alt="pycharm" width="50px" src="https://img.icons8.com/color/48/000000/pycharm.png" />
-<img align="left" alt="c" width="50px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
 <img align="left" alt="Visual Studio Code" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Typescript" width="60px" src="https://ostrowski.ninja/static/1482fb398d82ef51cfcfdbcd55e1ec03/a26eb/ts.png" />
-<img align="left" alt="JavaScript" width="50px" src="https://img.icons8.com/color/48/000000/javascript-logo-1.png"/>
-<img align="left" alt="Node.js" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="netbeans" width="50px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/netbeans_94416.png" />
+<img align="left" alt="pycharm" width="50px" src="https://img.icons8.com/color/48/000000/pycharm.png" />
+
+#### Server and database:
 <img align="left" alt="SQL" width="50px" src="https://img.icons8.com/nolan/64/database.png" />
 <img align="left" alt="MySQL" width="50px" src="https://budougumi0617.github.io/logos/mysql.png" />
+
+#### Others:
 <img align="left" alt="Git" width="50px" src="https://img.icons8.com/color/50/000000/git.png" />
 <img align="left" alt="GitHub" width="50px" src="https://img.icons8.com/nolan/64/github.png" />
+<img align="left" alt="c" width="50px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
+<img align="left" alt="python" width="50px" src="https://img.icons8.com/color/48/000000/python.png" />
 <img align="left" alt="Terminal" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Terminal" width="50px" src="https://img.icons8.com/color/48/000000/linux.png" /><br />
-<br />
 
-<br />
 <br />
 <br />
 
