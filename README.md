@@ -25,7 +25,7 @@
 <img align="left" alt="Typescript" width="60px" src="https://ostrowski.ninja/static/1482fb398d82ef51cfcfdbcd55e1ec03/a26eb/ts.png" />
 <img align="left" alt="JavaScript" width="50px" src="https://img.icons8.com/color/48/000000/javascript-logo-1.png"/>
 <img align="left" alt="Node.js" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="SQL" width="50px" src="https://img.icons8.com/nolan/64/database.png" />
 <img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="50px" src="https://img.icons8.com/color/50/000000/git.png" />
 <img align="left" alt="GitHub" width="50px" src="https://img.icons8.com/nolan/64/github.png" />
