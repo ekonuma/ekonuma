@@ -6,8 +6,7 @@ Welcome to my page, nice to meet you!
 
 <br />
 <div align="center">
-
----  
+ 
   
 ### Connect with me:
 
