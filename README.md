@@ -8,10 +8,7 @@ Welcome to my page, nice to meet you!
 <div align="center">
  
   
-### Connect with me: [<img align="center" alt="linkedin" width="60px" src="https://icon-icons.com/icons2/134/PNG/64/linkedin_socialnetwork_20684.png" />](https://www.linkedin.com/in/eeikee/)
-[<img align="center" alt="instagram" width="60px" src="https://icon-icons.com/icons2/134/PNG/64/instagram_socialnetwork_20686.png" />](https://www.instagram.com/_eeikee_/)
-[<img align="center" alt="youtube" width="60px" src="https://icon-icons.com/icons2/134/PNG/64/youtube_socialnetwork_20660.png"/>](https://bit.ly/eeikee-yt) 
-[<img align="center" alt="https://eeikee.github.io/portfolio-br/" width="60x" src="https://files.softicons.com/download/social-media-icons/ios-8-style-social-media-icons-by-design-bolts/png/64x64/Instapaper-Icon.png" />](https://eeikee.github.io/portfolio-br/)
+### Connect with me: [<img align="center" alt="linkedin" width="60px" src="https://icon-icons.com/icons2/134/PNG/64/linkedin_socialnetwork_20684.png" />](https://www.linkedin.com/in/eeikee/) [<img align="center" alt="instagram" width="60px" src="https://icon-icons.com/icons2/134/PNG/64/instagram_socialnetwork_20686.png" />](https://www.instagram.com/_eeikee_/) [<img align="center" alt="youtube" width="60px" src="https://icon-icons.com/icons2/134/PNG/64/youtube_socialnetwork_20660.png"/>](https://bit.ly/eeikee-yt) [<img align="center" alt="https://eeikee.github.io/portfolio-br/" width="60x" src="https://files.softicons.com/download/social-media-icons/ios-8-style-social-media-icons-by-design-bolts/png/64x64/Instapaper-Icon.png" />](https://eeikee.github.io/portfolio-br/)
 
 ---
 
