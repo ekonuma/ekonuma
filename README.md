@@ -1,4 +1,6 @@
-# <center>Welcome to my page, nice to meet you!</center>
+<h1 align="center">
+Welcome to my page, nice to meet you!
+</h1>
 <img align="left" alt="java" src="https://github.com/eeikee/eeikee/blob/master/eeikee.png" />
 
 ### Connect with me:
