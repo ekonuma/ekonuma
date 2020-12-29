@@ -1,4 +1,4 @@
-# Wellcome to my page, nice to meet you!
+# Welcome to my page, nice to meet you!
 
 ### Connect with me:
 
