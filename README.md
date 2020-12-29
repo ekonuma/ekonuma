@@ -18,7 +18,9 @@
 <br />
 
 #### Frontend:
-<img align="left" alt="JavaScript" width="50px" src="https://img.icons8.com/color/48/000000/javascript-logo-1.png"/><br />
+<img align="left" alt="JavaScript" width="50px" src="https://img.icons8.com/color/48/000000/javascript-logo-1.png"/>
+<img align="left" alt="Thymeleaf" width="50px" src="https://e7.pngegg.com/pngimages/988/228/png-clipart-spring-framework-java-annotation-model-view-controller-software-framework-thymeleaf-leaf-class.png"/>
+<img align="left" alt="Thymeleaf" width="50px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/><br />
 <br />
 
 #### IDE:
@@ -30,7 +32,9 @@
 <br />
 
 #### Server and database:
-<img align="left" alt="MySQL" width="50px" src="https://budougumi0617.github.io/logos/mysql.png" /><br />
+<img align="left" alt="MySQL" width="50px" src="https://budougumi0617.github.io/logos/mysql.png" />
+<img align="left" alt="GithubPages" width="50px" src="https://img.icons8.com/color/48/000000/github-2.png" />
+<img align="left" alt="Heroku" width="50px" src="https://img.icons8.com/nolan/64/heroku.png" /><br />
 <br />
 
 #### Others:
@@ -41,7 +45,7 @@
 <img align="left" alt="Node.js" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="python" width="50px" src="https://img.icons8.com/color/48/000000/python.png" />
 <img align="left" alt="Terminal" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Terminal" width="50px" src="https://img.icons8.com/color/48/000000/linux.png" /><br />
+<img align="left" alt="Linux" width="50px" src="https://img.icons8.com/color/48/000000/linux.png" /><br />
 
 <br />
 <br />
