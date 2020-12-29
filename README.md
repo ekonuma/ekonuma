@@ -6,6 +6,7 @@ Welcome to my page, nice to meet you!
 <br />
 <br />
 
+<div align="center">
 ### Connect with me:
 
 [<img align="left" alt="linkedin" width="60px" src="https://icon-icons.com/icons2/134/PNG/64/linkedin_socialnetwork_20684.png" />](https://www.linkedin.com/in/eeikee/)
@@ -68,3 +69,4 @@ Welcome to my page, nice to meet you!
 ----------------
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eeikee&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eeikee&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/eeikee/github-readme-stats)
+</div>
