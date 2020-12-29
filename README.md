@@ -3,7 +3,7 @@
 [<img align="left" alt="linkedin" width="60px" src="https://icon-icons.com/icons2/134/PNG/64/linkedin_socialnetwork_20684.png" />](https://www.linkedin.com/in/eeikee/)
 [<img align="left" alt="instagram" width="60px" src="https://icon-icons.com/icons2/134/PNG/64/instagram_socialnetwork_20686.png" />](https://www.instagram.com/_eeikee_/)
 [<img align="left" alt="youtube" width="60px" src="https://icon-icons.com/icons2/134/PNG/64/youtube_socialnetwork_20660.png"/>](https://bit.ly/eeikee-yt) 
-[<img align="left" alt="https://eeikee.github.io/portfolio-br/" width="60x" src="https://icon-icons.com/icons2/134/PNG/64/share_socialnetwork_20667.png" />](https://eeikee.github.io/portfolio-br/)
+[<img align="left" alt="https://eeikee.github.io/portfolio-br/" width="60x" src="https://files.softicons.com/download/social-media-icons/ios-8-style-social-media-icons-by-design-bolts/png/64x64/Instapaper-Icon.png" />](https://eeikee.github.io/portfolio-br/)
 
 <br />
 <br />
