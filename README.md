@@ -14,7 +14,7 @@
 
 #### Backend:
 <img align="left" alt="java" width="50px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
-<img align="left" alt="spring" width="50px" src="https://img.icons8.com/color/48/000000/spring-logo.png" />
+<img align="left" alt="spring" width="50px" src="https://img.icons8.com/color/48/000000/spring-logo.png" /><br />
 <br />
 
 #### Frontend:
@@ -38,7 +38,7 @@
 <img align="left" alt="GitHub" width="50px" src="https://img.icons8.com/nolan/64/github.png" />
 <img align="left" alt="c" width="50px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
 <img align="left" alt="Typescript" width="60px" src="https://ostrowski.ninja/static/1482fb398d82ef51cfcfdbcd55e1ec03/a26eb/ts.png" />
-<img align="left" alt="Node.js" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /><br />
+<img align="left" alt="Node.js" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="python" width="50px" src="https://img.icons8.com/color/48/000000/python.png" />
 <img align="left" alt="Terminal" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Terminal" width="50px" src="https://img.icons8.com/color/48/000000/linux.png" /><br />
