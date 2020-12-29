@@ -1,4 +1,5 @@
 # Welcome to my page, nice to meet you!
+<img align="left" alt="java" width="50px" src="https://github.com/eeikee/eeikee/blob/master/background.png" />
 
 ### Connect with me:
 
