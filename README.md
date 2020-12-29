@@ -1,4 +1,4 @@
-# Wellcome, my name is Eike!
+# Wellcome to my page, nice to meet you!
 
 ### Connect with me:
 
