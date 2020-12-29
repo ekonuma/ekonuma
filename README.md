@@ -3,7 +3,7 @@ Welcome to my page, nice to meet you!
 </h1>
 <img align="left" alt="java" src="https://github.com/eeikee/eeikee/blob/master/eeikee.png" />
 
- --- 
+ ------------ 
 
 <div align="center"><br />
 <br />
