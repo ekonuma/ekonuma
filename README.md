@@ -20,7 +20,7 @@
 #### Frontend:
 <img align="left" alt="JavaScript" width="50px" src="https://img.icons8.com/color/48/000000/javascript-logo-1.png"/>
 <img align="left" alt="Thymeleaf" width="50px" src="https://e7.pngegg.com/pngimages/988/228/png-clipart-spring-framework-java-annotation-model-view-controller-software-framework-thymeleaf-leaf-class.png"/>
-<img align="left" alt="Thymeleaf" width="50px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/><br />
+<img align="left" alt="Thymeleaf" width="50px" src="https://github.com/eeikee/eeikee/blob/master/thymeleaf.png"/><br />
 <br />
 
 #### IDE:
