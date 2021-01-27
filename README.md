@@ -5,6 +5,8 @@ Welcome to my page, nice to meet you!
 <img align="center" alt="home" src="https://github.com/eeikee/eeikee/blob/master/eeikee.png" />
  
  ---
+
+<div align="center">
   
 ### Connect with me:
 [<img align="center" alt="linkedin" width="60px" src="https://icon-icons.com/icons2/134/PNG/64/linkedin_socialnetwork_20684.png" />](https://www.linkedin.com/in/eeikee/)
