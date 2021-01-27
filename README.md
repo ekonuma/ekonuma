@@ -6,7 +6,7 @@ Welcome to my page, nice to meet you!
 
 <br />
 <div align="center">
- 
+ ---
   
 ### Connect with me:
 [<img align="center" alt="linkedin" width="60px" src="https://icon-icons.com/icons2/134/PNG/64/linkedin_socialnetwork_20684.png" />](https://www.linkedin.com/in/eeikee/)
