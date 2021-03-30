@@ -1,7 +1,4 @@
 <h1 align="center">
- 
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=eeikee&repo=eeikee&countColorcountColor) 
- 
 Welcome to my page, nice to meet you!
 </h1>
 <br />
