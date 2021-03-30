@@ -35,4 +35,5 @@ Welcome to my page, nice to meet you!
 [![](https://raw.githubusercontent.com/eeikee/eeikee/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eeikee&show_icons=true&theme=tokyonight)<br /><br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eeikee&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/eeikee/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eeikee)](https://github.com/anuraghazra/github-readme-stats)
 </div>
