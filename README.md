@@ -20,16 +20,16 @@ Welcome to my page, nice to meet you!
 ### Languages and Tools:
 
 <img align="center" alt="java" width="50px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
-<img align="center" alt="spring" width="50px" src="https://img.icons8.com/color/48/000000/spring-logo.png" /><br />
+<img align="center" alt="spring" width="50px" src="https://img.icons8.com/color/48/000000/spring-logo.png" />
 <img align="center" alt="Eclipse" width="50px" src="https://img.icons8.com/nolan/64/java-eclipse.png" />
 <img align="center" alt="intellij" width="50px" src="https://img.icons8.com/color/48/000000/intellij-idea.png" />
 <img align="center" alt="Visual Studio Code" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img  align="center" alt="postman" width="50px" src="https://img.icons8.com/dusk/64/000000/postman-api.png"/><br />
+<img  align="center" alt="postman" width="50px" src="https://img.icons8.com/dusk/64/000000/postman-api.png"/>
 <br />
 <img align="center" alt="MySQL" width="50px" src="https://budougumi0617.github.io/logos/mysql.png" />
 <img align="center" alt="c" width="50px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
 <img align="center" alt="Terminal" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="center" alt="Linux" width="50px" src="https://img.icons8.com/color/48/000000/linux.png" /><br />
+<img align="center" alt="Linux" width="50px" src="https://img.icons8.com/color/48/000000/linux.png" />
 
 <br />
 <br />
