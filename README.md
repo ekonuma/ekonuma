@@ -2,7 +2,6 @@
 Welcome to my page, nice to meet you!
 </h1>
 <br />
-<img align="center" alt="home" src="https://github.com/eeikee/eeikee/blob/master/eeikee.png" />
  
  ---
 
