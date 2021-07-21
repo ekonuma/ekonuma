@@ -6,8 +6,8 @@ Welcome to my page, nice to meet you!
 <div align="center">
   
 ### Connect with me:
-[<img align="center" alt="linkedin" width="60px" src="https://icon-icons.com/icons2/134/PNG/64/linkedin_socialnetwork_20684.png" />](https://www.linkedin.com/in/eeikee/)
-[<img align="center" alt="instagram" width="60px" src="https://icon-icons.com/icons2/134/PNG/64/instagram_socialnetwork_20686.png" />](https://www.instagram.com/_eeikee_/) [<img align="center" alt="youtube" width="60px" src="https://icon-icons.com/icons2/134/PNG/64/youtube_socialnetwork_20660.png"/>](https://bit.ly/eeikee-yt)
+[<img align="center" alt="linkedin" width="60px" src="https://icon-icons.com/icons2/134/PNG/64/linkedin_socialnetwork_20684.png" />](https://www.linkedin.com/in/kima-dev/)
+[<img align="center" alt="instagram" width="60px" src="https://icon-icons.com/icons2/134/PNG/64/instagram_socialnetwork_20686.png" />](https://www.instagram.com/kima_dev/) [<img align="center" alt="youtube" width="60px" src="https://icon-icons.com/icons2/134/PNG/64/youtube_socialnetwork_20660.png"/>](https://bit.ly/eeikee-yt)
 
 ---
 
@@ -28,8 +28,8 @@ Welcome to my page, nice to meet you!
 <br />
 
 ---------------- 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eeikee&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kimadev&show_icons=true&theme=tokyonight"/>
  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eeikee&layout=compact&show_icons=true&theme=tokyonight&hide=scss,css,html"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimadev&layout=compact&show_icons=true&theme=tokyonight&hide=scss,css,html"/>
  
 </div>
