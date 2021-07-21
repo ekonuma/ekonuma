@@ -2,8 +2,6 @@
 Welcome to my page, nice to meet you!
 </h1>
 <br />
- 
- ---
 
 <div align="center">
   
