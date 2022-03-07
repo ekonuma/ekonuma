@@ -28,7 +28,7 @@ Welcome to my page, nice to meet you!
 <br />
 
 ---------------- 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kima-dev&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kimadev&show_icons=true&theme=tokyonight"/>
  
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kima-dev&layout=compact&show_icons=true&theme=tokyonight&hide=scss,css,html"/>
  
