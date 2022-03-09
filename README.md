@@ -19,7 +19,8 @@ Welcome to my page, nice to meet you!
 <img  align="center" alt="Insomnia" width="50px" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png"/>
 <img align="center" alt="MySQL" width="50px" src="https://budougumi0617.github.io/logos/mysql.png" />
 <img align="center" alt="c" width="50px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
-<img align="center" alt="Terminal" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="center" alt="Azure" width="45px" src="https://img.icons8.com/fluency/48/000000/azure-1.png" />
+<img align="center" alt="Azure Devops" width="45px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-development-experience-through-the-native-integrations-of-azure-with-visual-studio-logo-shadow-tal-revivo.png" />
 <img align="center" alt="Linux" width="50px" src="https://img.icons8.com/color/48/000000/linux.png" />
 
 <br />
