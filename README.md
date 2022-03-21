@@ -2,13 +2,12 @@
 Welcome to my page, nice to meet you! 
 <br/>
 Contacts: 
-[<img align="center" alt="linkedin" width="60px" src="https://icon-icons.com/icons2/134/PNG/64/linkedin_socialnetwork_20684.png" />](https://www.linkedin.com/in/kimadev/)
+
+ [<img align="center" alt="linkedin" width="60px" src="https://icon-icons.com/icons2/134/PNG/64/linkedin_socialnetwork_20684.png" />](https://www.linkedin.com/in/kimadev/)
 </h1>
 
 <div align="center">
- 
 
----
 
 ### Languages and Tools:
 
