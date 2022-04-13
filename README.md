@@ -1,8 +1,9 @@
 <h1 align="center">
 Welcome to my page, nice to meet you! 
 <br/>
-Contacts: <img align="center" alt="linkedin" width="60px" src="https://icon-icons.com/icons2/134/PNG/64/linkedin_socialnetwork_20684.png" href="https://www.linkedin.com/in/kimadev/" />
- 
+Contacts:
+
+ <a href="https://www.linkedin.com/in/kimadev/" rel="linkedin">![linkedin](https://icon-icons.com/icons2/134/PNG/64/linkedin_socialnetwork_20684.png)</a>
 </h1>
 
 <div align="center">
