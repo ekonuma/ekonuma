@@ -5,7 +5,7 @@ Contacts:
 
  LinkedIn
  
- <a href="https://www.linkedin.com/in/kimadev/" rel="linkedin">![linkedin](https://icon-icons.com/icons2/134/PNG/64/linkedin_socialnetwork_20684.png)</a>
+ <a href="https://www.linkedin.com/in/ekonuma/" rel="linkedin">![linkedin](https://icon-icons.com/icons2/134/PNG/64/linkedin_socialnetwork_20684.png)</a>
 </h1>
 
 <div align="center">
@@ -28,8 +28,8 @@ Contacts:
 <br />
 
 ---------------- 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kimadev&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ekonuma&show_icons=true&theme=tokyonight"/>
  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimadev&layout=compact&show_icons=true&theme=tokyonight&hide=scss,css,html"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekonuma&layout=compact&show_icons=true&theme=tokyonight&hide=scss,css,html"/>
  
 </div>
