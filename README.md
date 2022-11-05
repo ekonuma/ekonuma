@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekonuma&label=Profile%20views&color=1a1b27&style=flat" alt="ekonuma" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ekonuma" alt="ekonuma" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ekonuma" alt="ekonuma" /></a> </p>-->
 
 - 🔭 I’m currently working for **GFT Brazil** on **Rabobank Brazil projects**
 - 🌱 I’m currently learning **Go**
