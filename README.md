@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ekonuma" alt="ekonuma" /></a> </p>
 
-- 🔭 I’m currently working on **Rabobank Brazil digital projects**
+- 🔭 I’m currently working for **GFT Brazil** on **Rabobank Brazil projects**
 
 - 🌱 I’m currently learning **Go**
 
