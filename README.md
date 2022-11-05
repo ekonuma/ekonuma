@@ -6,13 +6,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ekonuma" alt="ekonuma" /></a> </p>
 
 - 🔭 I’m currently working for **GFT Brazil** on **Rabobank Brazil projects**
-
 - 🌱 I’m currently learning **Go**
-
+- 🎯 I’m working to get a job in **Japan**.
 - 👯 I’m looking to collaborate on **Java, Go projects**
-
 - 💬 Ask me about **Java**
-
 - 📫 How to reach me **konumaeike5618@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
