@@ -22,8 +22,11 @@
 <a href="https://medium.com/kimadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="kimadev" height="30" width="40" /></a>
 </p> -->
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ekonuma&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide=scss,css,html" alt="ekonuma" />
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekonuma&layout=compact&show_icons=true&theme=onedark&hide=scss,css,html" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ekonuma&theme=onedark&show_icons=ture" />
+</p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ekonuma&show_icons=true&locale=en&theme=tokyonight&hide=scss,css,html" alt="ekonuma" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=ekonuma&theme=onedark)](https://github.com/ekonuma/github-profile-trophy)
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ekonuma&" alt="ekonuma" /></p>-->
