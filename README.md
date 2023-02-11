@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eike Konuma</h1>
+<h1 align="center">Hi 👋, I'm Eike</h1>
 <h3 align="center">A passionate backend developer from Japan/Brazil.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekonuma&label=Profile%20views&color=0e75b6&&style=flat" alt="ekonuma" /> </p>
