@@ -7,7 +7,7 @@
 
 - 🔭 Working for **GFT Brazil** on **Rabobank Brazil projects**
 - 🌱 Learning **Go**
-- 🎯 Working to become Backend in **Japan**.
+- 🎯 Working to become Backend engineer in **Japan**.
 - 👯 Looking to collaborate with **Java, Go projects**
 - 💬 Ask me about **Java**
 - 📫 How to reach me **konumaeike5618@gmail.com**
