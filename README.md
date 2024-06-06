@@ -10,7 +10,7 @@
 - 🎯 Working to become Backend engineer in **Japan**.
 - 👯 Looking to collaborate with **Java, Go projects**
 - 💬 Ask me about **Java**
-- 📫 How to reach me **konumaeike5618@gmail.com**
+- 📫 How to reach me **ekonuma12@gmail.com**
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
