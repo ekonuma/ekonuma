@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Eike</h1>
-<h3 align="center">Backend Engineer from 🇧🇷/🇯🇵.</h3>
+<h1>Hi 👋, I'm Eike</h1>
+<h3>Backend Engineer from 🇧🇷/🇯🇵.</h3>
 
 - 🔭 Working for **GFT Brazil** on **Rabobank Brazil projects**
 - 🌱 Learning **Go** **Kotlin** **Android Compose** **React** **TypeScript**
