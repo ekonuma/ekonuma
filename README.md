@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Eike</h1>
 <h3>Backend Engineer from 🇧🇷/🇯🇵.</h3>
 
-- 🔭 Working for **GFT Brazil** on **Rabobank projects**
+- 🔭 Working in Freelance Projects
 - 🌱 Learning **Go**, **Kotlin**, **Android Compose**, **React**, **TypeScript**
 - 🎯 Working to become Backend Engineer in **Japan**.
 - 👯 Looking to collaborate with **Java, Go, Android projects**
