@@ -1,0 +1,84 @@
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(to bottom, #458532, #18420e, #132e01);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+    background-color: white;
+    padding: 30px 20px;
+    border-radius: 20px;
+    width: 90%;
+    max-width: 400px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+.profile-pic {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+h1 {
+    margin-top: 15px;
+    color: #333;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.links {
+    margin-top: 30px;
+}
+
+.link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+    color: #333;
+    padding: 15px;
+    margin: 10px 0;
+    text-decoration: none;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.link:hover {
+    background-color: #f0f0f0;
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
+}
+
+.icon {
+    margin-right: 10px;
+    color: #5fce49;
+    font-size: 18px;
+}
+
+/* Footer and Social Media */
+footer {
+    margin-top: 20px;
+}
+
+.social-media {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+.social-media a {
+    color: #5fce49;
+    font-size: 22px;
+    transition: color 0.3s ease;
+}
+
+.social-media a:hover {
+    color: #378823;
+}
