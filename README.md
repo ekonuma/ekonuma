@@ -2,7 +2,7 @@
 <h3>Backend Engineer from 🇧🇷/🇯🇵.</h3>
 
 - 🔭 Working in Freelance Projects
-- 🌱 Learning **Go**, **Kotlin**, **Android Compose**, **React**, **TypeScript**
+- 🌱 Learning **Software Architectures**,**Cloud Architectures**,**Azure**,**AWS**,**Golang**...
 - 🎯 Working to become Backend Engineer in **Japan**.
 - 👯 Looking to collaborate with **Java, Go, Android projects**
 - 💬 Ask me about **Java**
